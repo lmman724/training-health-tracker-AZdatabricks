@@ -29,10 +29,4 @@ You can use databricks community edition to solve this challenge. Spin up a clus
 
 Challenge:
 
-For this exercise, you’ll be required to do the following:
-
-1. Read raw file and ingest into delta table.
-2. Perform batch upload of new data.
-3. Perform data quality checks and find issues with quality of data.
-4. If there are any issues, then rectify the data and update the table.
-5. Scrub personal data of a user.
+![](high-level-design/event-hubs%20and-stream-processing-with-azure-databricks.drawio.png)
