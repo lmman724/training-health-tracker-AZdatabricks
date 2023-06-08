@@ -1,5 +1,14 @@
-# training-health-tracker-AZdatabricks
-## Challenge
+# training-datalakehouse-health-tracker
+
+## Table of Contents
+
+- [Overview](#overview)
+- [Data modelling](#features)
+- [High-level design](#installation)
+- [Dashboard](#contributing)
+- [License](#license)
+
+## Overview
 
 About data:
 
@@ -27,6 +36,9 @@ Data location: [https://hadoop-and-big-data.s3-us-west-2.amazonaws.com/fitness-t
 
 You can use databricks community edition to solve this challenge. Spin up a cluster in databricks workspace and open a notebook to get started.
 
-Challenge:
-
+## High-level design
 ![](high-level-design/event-hubs%20and-stream-processing-with-azure-databricks.drawio.png)
+
+## Challenge
+
+
