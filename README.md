@@ -3,10 +3,9 @@
 ## Table of Contents
 
 - [Overview](#overview)
-- [Data modelling](#features)
 - [High-level design](#installation)
-- [Dashboard](#contributing)
-- [License](#license)
+- [Challenge](#contributing)
+- [Reference](#license)
 
 ## Overview
 
@@ -39,6 +38,6 @@ You can use databricks community edition to solve this challenge. Spin up a clus
 ## High-level design
 ![](high-level-design/event-hubs%20and-stream-processing-with-azure-databricks.drawio.png)
 
-## Challenge
+## Reference
 
 
