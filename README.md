@@ -3,7 +3,7 @@
 ## Table of Contents
 
 - [Overview](#overview)
-- [About data] (Aboutdata)
+- [About data](#Aboutdata)
 - [High-level design](#installation)
 - [Challenge](#Challenge)
 - [Reference](#Reference)
@@ -64,5 +64,6 @@ You can use databricks community edition to solve this challenge. Spin up a clus
 
 ## Reference
 https://www.databricks.com/blog/2020/01/30/what-is-a-data-lakehouse.html
+
 https://learn.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-introduction
 
